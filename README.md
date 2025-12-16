@@ -40,7 +40,7 @@ pip install -e ".[train]"
 cd openVLA-Qwen2-0.5B
 mkdir models
 cd models
-git clone git clone https://huggingface.co/lmms-lab/llava-onevision-qwen2-0.5b-ov
+git clone https://huggingface.co/lmms-lab/llava-onevision-qwen2-0.5b-ov
 ```
 ### 5. Change the file path in scripts/train/finetune_ov_vla.sh
 ```bash
