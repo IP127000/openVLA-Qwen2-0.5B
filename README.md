@@ -48,7 +48,7 @@ PREV_STAGE_CHECKPOINT="models/llava-onevision-qwen2-0.5b-ov"
 --data_path scripts/train/vla.yaml
 --image_folder /images \
 ```
-### 6. Change the data paht in scripts/train/vla.yaml
+### 6. Change the data path in scripts/train/vla.yaml
 ```bash
 json_path: /root/data/vla_llava.json
 ```
